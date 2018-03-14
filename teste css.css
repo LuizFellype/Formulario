@@ -1,0 +1,44 @@
+p {
+    font-size: 13px;
+}
+
+input {
+    border-radius: 5px;
+    font-size: 15px;
+}
+.bb {
+    border-top: dashed 2px;
+    border-bottom: dashed 2px;
+    padding-bottom: 10px;
+    margin-left: -15px;
+}
+
+.btb {
+    padding-bottom: 25px;
+    padding-left: 10px;
+    margin-top: 20px;
+}
+
+.bl {
+    border-left: solid 1px;
+}
+
+.esp {
+    margin-top: 13px;
+}
+
+.cent {
+    width: 70%
+}
+
+.but {
+    margin-right: 10px;
+    margin-top: 13px;
+}
+.b{
+    background-image:  url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo5Q7-vtq2v2ewPRqdF6wl46cJB6FG2qBSghzvSSrEuSMM04gp");
+}
+
+.al {
+    margin-left: -15px;
+}
